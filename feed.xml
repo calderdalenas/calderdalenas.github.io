@@ -3,10 +3,10 @@
   <channel>
     <title>Calderdale NAS</title>
     <description>This is the website of the Calderdale Branch of the National Autistic Society</description>
-    <link>http://calderdalenas.org.uk/</link>
-    <atom:link href="http://calderdalenas.org.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 13:42:15 +0100</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 13:42:15 +0100</lastBuildDate>
+    <link>http://www.calderdalenas.org.uk/</link>
+    <atom:link href="http://www.calderdalenas.org.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Jun 2015 14:02:20 +0100</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 14:02:20 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       
@@ -21,8 +21,8 @@
 </description>
         
         <pubDate>Fri, 10 Apr 2015 00:00:00 +0100</pubDate>
-        <link>http://calderdalenas.org.uk/blog/waaw-quiz/</link>
-        <guid isPermaLink="true">http://calderdalenas.org.uk/blog/waaw-quiz/</guid>
+        <link>http://www.calderdalenas.org.uk/blog/waaw-quiz/</link>
+        <guid isPermaLink="true">http://www.calderdalenas.org.uk/blog/waaw-quiz/</guid>
         
         <category>nas</category>
         
@@ -46,8 +46,8 @@
 </description>
         
         <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-        <link>http://calderdalenas.org.uk/blog/bric-a-brac-thanks/</link>
-        <guid isPermaLink="true">http://calderdalenas.org.uk/blog/bric-a-brac-thanks/</guid>
+        <link>http://www.calderdalenas.org.uk/blog/bric-a-brac-thanks/</link>
+        <guid isPermaLink="true">http://www.calderdalenas.org.uk/blog/bric-a-brac-thanks/</guid>
         
         <category>halifax</category>
         
