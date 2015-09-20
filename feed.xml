@@ -5,8 +5,8 @@
     <description>This is the website of the Calderdale Branch of the National Autistic Society</description>
     <link>http://www.calderdalenas.org.uk/</link>
     <atom:link href="http://www.calderdalenas.org.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Sep 2015 17:14:25 +0100</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2015 17:14:25 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2015 16:49:27 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2015 16:49:27 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       
@@ -21,8 +21,8 @@
 </description>
         
         <pubDate>Sun, 18 Oct 2015 11:30:00 +0100</pubDate>
-        <link>http://www.calderdalenas.org.uk/blog/11-30-afs-odeon-ht2/</link>
-        <guid isPermaLink="true">http://www.calderdalenas.org.uk/blog/11-30-afs-odeon-ht2/</guid>
+        <link>http://www.calderdalenas.org.uk/event/11-30-afs-odeon-ht2/</link>
+        <guid isPermaLink="true">http://www.calderdalenas.org.uk/event/11-30-afs-odeon-ht2/</guid>
         
         <category>cinema</category>
         
@@ -45,9 +45,9 @@
 
 &lt;p&gt;The event is completely &lt;strong&gt;free of charge&lt;/strong&gt; and you are welcome to attend the meeting whether you are a committee member, a volunteer or just a member of the branch. However as always we are always looking for people to volunteer, no matter what you can offer.&lt;/p&gt;
 
-&lt;p&gt;If you are bringing children to participate in the events please let us know by emailing &lt;a href=&quot;mailto:calderdale@nas.org.uk?subject=NAS Calderdale Branch Annual Genenral Meeting 2015&quot;&gt;calderdale@nas.org.uk&lt;/a&gt; and letting us know how many children will be attending. We need to know this to make sure there is enough supervision for all the children present. Alternatively call on 07798617448 but please note this mobile is not always answered and you may have to leave a message.&lt;/p&gt;
+&lt;p&gt;If you are bringing children to participate in the events please let us know by emailing &lt;a href=&quot;mailto:calderdale@nas.org.uk?subject=NAS Calderdale Branch Annual Genenral Meeting 2015&quot;&gt;calderdale@nas.org.uk&lt;/a&gt; and letting us know how many children will be attending. We need to know this to make sure there is enough supervision for all the children present. Alternatively call on 07798 617448 but please note this mobile is not always answered and you may have to leave a message.&lt;/p&gt;
 
-&lt;p&gt;Activities available are;&lt;/p&gt;
+&lt;p&gt;Activities available at the Boiler House are;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Climbing&lt;/li&gt;
@@ -62,8 +62,8 @@
 </description>
         
         <pubDate>Sun, 27 Sep 2015 12:00:00 +0100</pubDate>
-        <link>http://www.calderdalenas.org.uk/blog/12-00-cnas-agm-2015/</link>
-        <guid isPermaLink="true">http://www.calderdalenas.org.uk/blog/12-00-cnas-agm-2015/</guid>
+        <link>http://www.calderdalenas.org.uk/event/12-00-cnas-agm-2015/</link>
+        <guid isPermaLink="true">http://www.calderdalenas.org.uk/event/12-00-cnas-agm-2015/</guid>
         
         <category>committee</category>
         
@@ -89,8 +89,8 @@
 </description>
         
         <pubDate>Sun, 27 Sep 2015 10:00:00 +0100</pubDate>
-        <link>http://www.calderdalenas.org.uk/blog/10-00-asf-vue-motr/</link>
-        <guid isPermaLink="true">http://www.calderdalenas.org.uk/blog/10-00-asf-vue-motr/</guid>
+        <link>http://www.calderdalenas.org.uk/event/10-00-asf-vue-motr/</link>
+        <guid isPermaLink="true">http://www.calderdalenas.org.uk/event/10-00-asf-vue-motr/</guid>
         
         <category>cinema</category>
         
@@ -123,6 +123,12 @@
         <link>http://www.calderdalenas.org.uk/blog/care-act-information-session/</link>
         <guid isPermaLink="true">http://www.calderdalenas.org.uk/blog/care-act-information-session/</guid>
         
+        <category>consultation</category>
+        
+        <category>legislation</category>
+        
+        
+        <category>blog</category>
         
       </item>
       
@@ -149,7 +155,7 @@
         <category>waaw</category>
         
         
-        <category>publicity</category>
+        <category>blog</category>
         
       </item>
       
@@ -172,7 +178,7 @@
         <category>bric-a-brac</category>
         
         
-        <category>fundraising</category>
+        <category>blog</category>
         
       </item>
       
