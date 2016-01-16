@@ -307,7 +307,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 104.0,
+		"height": 87.0,
 		"last_filter": "install",
 		"selected_items":
 		[
@@ -456,13 +456,14 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 424.0
+		"width": 449.0
 	},
 	"console":
 	{
 		"height": 371.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 			"view.run_command(\"show_scope_name\")",
 			"show_scope_name",
 			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -479,7 +480,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/cmsxlb/Dropbox/Sites/draft-calderdalenas"
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas"
 	],
 	"file_history":
 	[
@@ -614,7 +615,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -852,7 +853,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -897,7 +898,7 @@
 	"project": "CNAS.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
