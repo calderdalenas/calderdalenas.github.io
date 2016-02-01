@@ -2,7 +2,15 @@
 	"folders":
 	[
 		{
-			"path": "."
+			"path": "/Users/luke/Dropbox/Sites/draft-calderdalenas/"
 		}
-	]
+	],
+	"settings":
+	{
+		"Jekyll":
+		{
+			"posts_path": "/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts",
+            "drafts_path": "/Users/luke/Dropbox/Sites/draft-calderdalenas/_drafts"
+		}
+	}
 }
