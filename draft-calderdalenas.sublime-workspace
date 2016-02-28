@@ -16,39 +16,22 @@
 	"buffers":
 	[
 		{
+			"contents": "luke:\n    name:       Luke Brunning\n    twitter:    lukebrunning\n    icon:       rebel\n    image:      luke_profile.jpg\n\nsarah:\n    name:     Sarah C\n\nkaren:\n    name:     Karen N\n\ndavina:\n    name:     Davina B\n\ncath:\n    name:     Cath D\n\ncolette:\n    name:     Colette H\n\nbushy:\n    name:     Mandy B",
+			"file": "_data/people.yml",
+			"file_size": 298,
+			"file_write_time": 130987444040000000,
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9467,
+				"buffer_size": 9608,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_posts/2016-01-17-rokt.md",
-			"settings":
-			{
-				"buffer_size": 1150,
-				"line_ending": "Unix",
-				"name": "---"
-			}
-		},
-		{
-			"file": "_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 890,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "luke:\n    name:       Luke Brunning\n    twitter:    lukebrunning\n    icon:       \n    image:      luke_profile.jpg\n\nsarah:\n    name:     Sarah Contrara\n\nkaren:\n    name:     Karen Nelson\n\ndavina:\n    name:     Davina Beck\n\ncath:\n    name:     Catherine Dawber\n\ncolette:\n    name:     Colette Hampson\n\nbushy:\n    name:     Mandy Bush",
-			"file": "_data/people.yml",
-			"file_size": 278,
-			"file_write_time": 130975383410000000,
-			"settings":
-			{
-				"buffer_size": 332,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -134,17 +117,17 @@
 	"expanded_folders":
 	[
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_data",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_drafts",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_includes",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_layouts",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_site",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/css"
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/images"
 	],
 	"file_history":
 	[
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts/2016-01-17-rokt.md",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/index.html",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts/2016-01-31-future-cahms.md",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts/2016-01-30-adult-autism-strategy.md",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_layouts/post.html",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/about.md",
 		"/Users/luke/Dropbox/Sites/Twenty-Jekyll-Theme-master/_posts/2014-08-07-first-post.markdown",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_includes/footer.html",
@@ -267,11 +250,7 @@
 		"/C/Users/cmsxlb/Downloads/massEmail.js",
 		"/C/Users/cmsxlb/Downloads/SharePoint Manager 2013/SharePoint Manager 2013/SharePoint Manager 2013.exe.config",
 		"/C/Users/cmsxlb/Downloads/underscore-min.js",
-		"//victoria/c$/inetpub/wwwroot/wss/VirtualDirectories/UniShare/NLog.config",
-		"//nas01/staffhome/cmsxlb/Organisation/CLS.TXT",
-		"/C/Users/cmsxlb/Dropbox/Apps/hosts/test.hosts",
-		"/C/Users/cmsxlb/Dropbox/Apps/hosts/bm_test.hosts",
-		"//vaduz/C$/inetpub/mailroot/Drop/7c52f77701d02ff000000002.eml"
+		"//victoria/c$/inetpub/wwwroot/wss/VirtualDirectories/UniShare/NLog.config"
 	],
 	"find":
 	{
@@ -352,114 +331,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9467,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6069,
-								6069
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1115.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2016-01-17-rokt.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1150,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								158,
-								158
-							]
-						],
-						"settings":
-						{
-							"auto_name": "---",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_layouts/post.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 890,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								630,
-								630
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "_data/people.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 332,
+						"buffer_size": 303,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								151,
-								151
+								108,
+								108
 							]
 						],
 						"settings":
@@ -472,14 +361,39 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9182,
+								9182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1782.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -500,12 +414,6 @@
 				0,
 				1,
 				1
-			],
-			[
-				0,
-				1,
-				1,
-				2
 			]
 		],
 		"cols":
@@ -516,7 +424,6 @@
 		"rows":
 		[
 			0.0,
-			0.5,
 			1.0
 		]
 	},
