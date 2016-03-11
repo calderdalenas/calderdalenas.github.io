@@ -16,22 +16,27 @@
 	"buffers":
 	[
 		{
-			"contents": "luke:\n    name:       Luke Brunning\n    twitter:    lukebrunning\n    icon:       rebel\n    image:      luke_profile.jpg\n\nsarah:\n    name:     Sarah C\n\nkaren:\n    name:     Karen N\n\ndavina:\n    name:     Davina B\n\ncath:\n    name:     Cath D\n\ncolette:\n    name:     Colette H\n\nbushy:\n    name:     Mandy B",
-			"file": "_data/people.yml",
-			"file_size": 298,
-			"file_write_time": 130987444040000000,
+			"file": "CNAME",
 			"settings":
 			{
-				"buffer_size": 303,
+				"buffer_size": 24,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
 			"settings":
 			{
-				"buffer_size": 9608,
-				"line_ending": "Windows"
+				"buffer_size": 98,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -43,9 +48,25 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "rein",
+		"last_filter": "jeky",
 		"selected_items":
 		[
+			[
+				"jeky",
+				"Jekyll: New post from template"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
 			[
 				"rein",
 				"Indentation: Reindent Lines"
@@ -95,7 +116,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 458.0
 	},
 	"console":
 	{
@@ -117,14 +138,24 @@
 	"expanded_folders":
 	[
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_data",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_layouts",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/images"
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_resources"
 	],
 	"file_history":
 	[
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts/2016-01-17-rokt.md",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_data/resource_types.yml",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_resources/brain-in-hand.markdown",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_data/people.yml",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/index.html",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_resources/autism-links.markdown",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_resources/transporters.markdown",
+		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/Jekyll/README.md",
+		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/luke/Dropbox/Apps/Sublime/User/Preferences.sublime-settings",
+		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts/2016-01-17-rokt.md",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts/2016-01-31-future-cahms.md",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts/2016-01-30-adult-autism-strategy.md",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_layouts/post.html",
@@ -241,16 +272,7 @@
 		"/C/Users/cmsxlb/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences (Windows).sublime-settings",
 		"/C/Users/cmsxlb/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SJBJ2IYD/docData.txt",
 		"/C/Users/cmsxlb/Dropbox/Work/project reference/wisdom/ReviewClasses.xml",
-		"/C/Users/cmsxlb/Dropbox/Work/project reference/wisdom/docData.txt",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/C/Users/cmsxlb/Dropbox/Work/tmp/mmdata/ECMPackage.dat",
-		"/C/Users/cmsxlb/Downloads/Work-UniCouncil/Read Me.txt",
-		"/C/Users/cmsxlb/Dropbox/vim/doc/NERD_tree.txt",
-		"/C/Users/cmsxlb/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/cmsxlb/Downloads/massEmail.js",
-		"/C/Users/cmsxlb/Downloads/SharePoint Manager 2013/SharePoint Manager 2013/SharePoint Manager 2013.exe.config",
-		"/C/Users/cmsxlb/Downloads/underscore-min.js",
-		"//victoria/c$/inetpub/wwwroot/wss/VirtualDirectories/UniShare/NLog.config"
+		"/C/Users/cmsxlb/Dropbox/Work/project reference/wisdom/docData.txt"
 	],
 	"find":
 	{
@@ -331,67 +353,91 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_data/people.yml",
-					"semi_transient": false,
+					"file": "CNAME",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 303,
+						"buffer_size": 24,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								108,
-								108
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9608,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9182,
-								9182
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1782.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -492,7 +538,7 @@
 		[
 			[
 				"",
-				"~/Dropbox/Apps/Sublime/cnas website.sublime-workspace"
+				"~/Dropbox/Apps/Notes/Notes.sublime-project"
 			],
 			[
 				"j",
