@@ -15,14 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_includes/banner.html",
-			"settings":
-			{
-				"buffer_size": 671,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -121,18 +113,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_data",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_drafts",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_events",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_includes",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_layouts",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_posts",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_resources",
-		"/Users/luke/Dropbox/Sites/draft-calderdalenas/js"
+		"/Users/luke/Dropbox/Sites/CNAS-5",
+		"/Users/luke/Dropbox/Sites/CNAS-5/css",
+		"/Users/luke/Dropbox/Sites/CNAS-5/img",
+		"/Users/luke/Dropbox/Sites/CNAS-5/js",
+		"/Users/luke/Dropbox/Sites/CNAS-5/js/vendor"
 	],
 	"file_history":
 	[
+		"/Users/luke/Dropbox/Sites/CNAS-5/humans.txt",
 		"/Users/luke/Dropbox/Sites/draft-calderdalenas/_resources/calderdale-asd-team.markdown",
 		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/luke/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
@@ -259,12 +248,11 @@
 		"//southport/d$/scripts/CT003.ps1",
 		"//southport/d$/scripts/CT002.ps1",
 		"//southport/d$/scripts/PS_GetSiteCollectionSize.ps1",
-		"//southport/d$/scripts/PublishCTTypes.ps1",
-		"/C/Users/cmsxlb/Dropbox/Work/project reference/wisdom/uniCommiteeHealthSafty.xml"
+		"//southport/d$/scripts/PublishCTTypes.ps1"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -341,45 +329,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_includes/banner.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 671,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -413,10 +370,10 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/AppleScript Extensions/AppleScript (Compile).sublime-build",
-	"project": "draft-calderdalenas.sublime-project",
+	"project": "CNAS-5.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -502,7 +459,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 176.0,
+	"side_bar_width": 295.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
